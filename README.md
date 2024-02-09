@@ -16,7 +16,7 @@ Repositório pr armazenar resumos sobre Git e Github do curso Versionamento de C
 ## 💻 Códigos
 
 ```
-git init
+git init biribinha ihu!!
 
 ```
 
