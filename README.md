@@ -15,8 +15,13 @@ Repositório pr armazenar resumos sobre Git e Github do curso Versionamento de C
 
 ## 💻 Códigos
 
+### Tudo isso são códigos que ajudam na atualizaçao da versão do código!
+
 ```
-git init biribinha ihu!!
+git init 
+git clone
+git push
+git pull
 
 ```
 
